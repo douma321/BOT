@@ -1,17 +1,11 @@
 {
     "accessed_user": [
         {
-            "id": 5919377645,
-            "expiry_date": "forever"
-
-        },
-        {
             "id": 5992244667,
             "expiry_date": "forever"
         }
     ],
     "admin": [
-        5919377645,
         5992244667
     ]
 }
