@@ -3,9 +3,8 @@
 1. Instalasi Kebutuhan
 
 Pertama, instal semua ketergantungan yang dibutuhkan menggunakan `pip`:
-
-
 pip install -r requirements.txt
+
 2. Ganti Token API
 Buka file bot.py dan ganti placeholder TOKEN_BOT dengan token API bot Telegram Anda yang sebenarnya dari BotFather:
 
